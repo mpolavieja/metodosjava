@@ -85,7 +85,7 @@ public class Ejercicio10 {
 
         System.out.println("*");
         for (int i = 0; i < altura - 2; i++) {
-            System.out.println("* " + "                   ".substring(0, i+1) + "* ");
+            System.out.println("* " + "                   ".substring(0, i) + "* ");
         }
         // System.out.println();
         for (int i = 0; i < altura; i++) {

@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8f16d23-c191-4f9e-9c5c-7a627b714aa4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Practicas4/Ejercicio10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practicas4/lineaCaracteres.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practicas4/Ejercicio11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practicas4/Ejercicio12.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/métodos/Practicas4/Ejercicio10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/métodos/Practicas4/Ejercicio10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practicas4/Ejercicio10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practicas4/Ejercicio10.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,20 +41,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Ejercicio10">
-    <configuration name="Calculadora" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practicas4.Calculadora" />
-      <module name="métodos" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practicas4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Ejercicio12">
     <configuration name="Ejercicio10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practicas4.Ejercicio10" />
       <module name="métodos" />
@@ -66,8 +55,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ejercicio4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practicas4.Ejercicio4" />
+    <configuration name="Ejercicio11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practicas4.Ejercicio11" />
+      <module name="métodos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practicas4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejercicio12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practicas4.Ejercicio12" />
       <module name="métodos" />
       <extension name="coverage">
         <pattern>
@@ -107,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ejercicio12" />
+        <item itemvalue="Application.Ejercicio11" />
         <item itemvalue="Application.Ejercicio10" />
         <item itemvalue="Application.lineaCaracteres" />
         <item itemvalue="Application.Ejercicio5" />
-        <item itemvalue="Application.Calculadora" />
-        <item itemvalue="Application.Ejercicio4" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +135,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
