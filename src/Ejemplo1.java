@@ -8,6 +8,7 @@ public class Ejemplo1 {
         return res;
     }
 
+    // Comentario prueba Manuel
     public static void main(String[] args) {
         int numero1, numero2, res;
         Scanner teclado = new Scanner(System.in);
@@ -17,6 +18,6 @@ public class Ejemplo1 {
         numero2 = teclado.nextInt();
 
         res = sumar(numero1, numero2);
-        System.out.println("El resultado es: " + res);
+        System.out.println("La suma de " + numero1 + " y " + numero2 + " es: " + res);
     }
 }
